@@ -220,5 +220,5 @@ copybot/
 ## Контакты
 
 Разрабатываю крипто-ботов на заказ (арбитраж, снайпинг, copy-trading).
-Telegram: [@Fhn3h](https://t.me/Fhn3h)
+Telegram: [@Fhnehhh](https://t.me/Fhneh)
 
