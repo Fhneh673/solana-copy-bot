@@ -108,4 +108,4 @@ Tests run offline using a mock core and a fake RPC. They cover sizing, filters, 
 ## Contact
 
 I build custom crypto bots (arbitrage, sniping, copy-trading) on request.
-Telegram: [@Fhn3h](https://t.me/Fhn3h)
+Telegram: [@Fhnehhh](https://t.me/Fhnehhh)
