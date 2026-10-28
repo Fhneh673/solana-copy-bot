@@ -105,7 +105,19 @@ Tests run offline using a mock core and a fake RPC. They cover sizing, filters, 
 
 [MIT](LICENSE)
 
-## Contact
+## Custom development
 
-I build custom crypto bots (arbitrage, sniping, copy-trading) on request.
-Telegram: [@Fhnehhh](https://t.me/Fhnehhh)
+[#custom-development](#custom-development)
+
+I build custom crypto trading bots and trading infrastructure:
+
+- **Copy-trading bots** (Solana and others): wallet tracking, position sizing, stop-loss / take-profit, risk limits
+- **Arbitrage bots**: cross-exchange, triangular, spot + margin
+- **Sniping bots**: new token launches on Solana DEXs via Jupiter
+- **Telegram control and monitoring**: commands, alerts, PnL reports
+- **Performance-critical parts in Rust**, decision logic and integrations in Python
+
+What you get: clean, tested code, a setup guide, and a dry-run mode so you can verify the bot before risking funds.
+
+**Contact:** Telegram [@Fhn3h](https://t.me/Fhn3h)
+Send a short description of what you need (exchange or chain, strategy, budget, deadline) and I'll reply with an estimate.
