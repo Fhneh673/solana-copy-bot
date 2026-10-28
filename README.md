@@ -119,5 +119,5 @@ I build custom crypto trading bots and trading infrastructure:
 
 What you get: clean, tested code, a setup guide, and a dry-run mode so you can verify the bot before risking funds.
 
-**Contact:** Telegram [@Fhn3h](https://t.me/Fhn3h)
+**Contact:** Telegram [@Fhnehhh](https://t.me/Fhnehhh)
 Send a short description of what you need (exchange or chain, strategy, budget, deadline) and I'll reply with an estimate.
